@@ -33,7 +33,9 @@ class BookDetails extends Component {
                         }
                     </div>
                 </li>
+                <div></div>
             </div>
+            
         );
     }
 }
